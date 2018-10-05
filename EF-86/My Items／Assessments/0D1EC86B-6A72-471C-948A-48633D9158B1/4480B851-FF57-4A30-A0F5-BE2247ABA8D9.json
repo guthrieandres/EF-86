@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4480B851-FF57-4A30-A0F5-BE2247ABA8D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "43B6B2F0-E4CA-49E5-B6DC-34FED9170E0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "743F8C78-666B-4A94-9D4C-2B334BB01EB4",
+    "height": 72,
+    "width": 1002,
+    "x": 277,
+    "y": 208
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Listitem/AssessmentItem/Sortable/Default Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D1DE8DC-5F76-4A33-97D3-63C62CA27D73",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6DD6E3B3-46DE-490D-BB6A-91557380B806",
+  "verticalSpacing": 0
+}

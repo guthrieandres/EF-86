@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A9BE10A-9E6E-4F1E-A9F5-7E1706F45D0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9332AC90-8B8E-42F3-8F11-3DF727AC13E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "498707B8-30C6-4607-BC67-0F10546D4C1A",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 3
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/sml/edit",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52E38DD0-C379-4C00-9E92-0A817E4BD59C",
+      "overrideName": "961E7A3F-AE16-4957-BF1F-806E4D514B9D_symbolID",
+      "value": "54ABDA21-D218-4096-A759-5F11DEF04CCD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F89D179-A5E8-4613-B546-7CB7CCADD320",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6937216A-EEA8-4E92-A711-7AD97ECE94AA",
+  "verticalSpacing": 0
+}

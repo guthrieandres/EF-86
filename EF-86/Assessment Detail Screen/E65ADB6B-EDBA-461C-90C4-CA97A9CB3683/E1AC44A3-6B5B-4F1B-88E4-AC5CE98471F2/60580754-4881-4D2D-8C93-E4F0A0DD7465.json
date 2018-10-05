@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "60580754-4881-4D2D-8C93-E4F0A0DD7465",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35FDCA57-D1C1-4782-91E9-D8172F657570",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C5BA3303-DE42-46A3-B8D9-C2DF8280DF6B",
+    "height": 72,
+    "width": 1037,
+    "x": 281,
+    "y": 644
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Drop Zone Default 4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F51727A0-1176-4176-A838-3D1822A5BA00_stringValue",
+      "value": "4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BF2152E-FAAA-4DD3-A6E2-852C1CDD7D91",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC4A1D17-38F7-4BD7-A3C1-2232537ADB67",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F5977776-0EEB-40BF-AE73-E1E6721A2F7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "629E6BDA-D9F1-4CEE-B9C9-C9B872F0089B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6523B48-7DDC-4CFB-B3A2-F6D2613C1CAF",
+    "height": 600,
+    "width": 233,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sidepanel/My Assessments & Plans",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51BBDDCC-6501-449D-9B40-5111B7B4BED3",
+      "overrideName": "5CE457BC-82A9-4212-B1B5-E4A2A2080F47/73E7AC84-7B7D-488F-8277-A783867EA162_stringValue",
+      "value": "My Item Banks"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3326A858-18AB-41BF-8A9A-D6103DC2C855",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DF2FE90C-A930-4B00-86D3-B7B348A5525C",
+  "verticalSpacing": 0
+}

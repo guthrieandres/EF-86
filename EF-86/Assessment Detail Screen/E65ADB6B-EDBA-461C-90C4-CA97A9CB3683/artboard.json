@@ -1,0 +1,85 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A7358EEF-3011-414D-8915-FB3020A8D989",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E65ADB6B-EDBA-461C-90C4-CA97A9CB3683",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82137DCA-99F6-4E46-9B52-EA32ABDBCDDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C7443B0-8A78-420F-8EF0-6733A8D63A32",
+    "height": 680,
+    "width": 1366,
+    "x": -6739,
+    "y": -1125
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "77697F9B-5B76-4409-AD0F-C92EC305D4BB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E1AC44A3-6B5B-4F1B-88E4-AC5CE98471F2"
+    },
+    {
+      "class": "group",
+      "id": "933A0421-B7D4-4D25-9E98-CCAECD3DC8D3"
+    }
+  ],
+  "name": "Detail Duplicate S01-2",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16718A7A-D7F2-4F5D-9F74-4F55D85406F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0D7B469F-8448-4203-8BDA-9A14560F8D8B",
+    "guides": [
+      316
+    ]
+  }
+}

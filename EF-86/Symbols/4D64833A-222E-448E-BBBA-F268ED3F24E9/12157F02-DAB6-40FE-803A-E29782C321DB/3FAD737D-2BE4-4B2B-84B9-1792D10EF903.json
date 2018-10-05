@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FAD737D-2BE4-4B2B-84B9-1792D10EF903",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED072013-9784-4E76-8FAE-F163E3E23DDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B799A4B3-62AB-4D2A-9293-160A0C2E7B0E",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/sml/assessment",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55A50D42-B246-42DC-9E71-42D33583EF2B",
+      "overrideName": "445AEA22-1315-4821-B306-65F2482FED17_symbolID",
+      "value": "8E0F3D8F-8A98-4FFA-BAFF-524B76F378D9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C62CEE81-A34B-45BC-856A-576F703C0C5D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9599D5D7-F41A-4E68-8DAD-9865B2920FD6",
+  "verticalSpacing": 0
+}

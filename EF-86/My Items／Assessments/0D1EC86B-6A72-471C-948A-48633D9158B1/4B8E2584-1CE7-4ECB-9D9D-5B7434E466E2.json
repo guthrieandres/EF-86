@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B8E2584-1CE7-4ECB-9D9D-5B7434E466E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74AC8D17-F961-45F6-811A-DF616E118AB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E4D3D70-3009-47E4-81D3-111961FF4AAA",
+    "height": 40,
+    "width": 198,
+    "x": 1081,
+    "y": 140
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Create Assessment Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BDEE9C4B-D267-4F6D-ACA3-D80407D68E43_stringValue",
+      "value": "Create Item"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F3FBECF3-30A3-4DEE-9F29-FB8018D0A11F_symbolID",
+      "value": "AE6E9F95-73B1-49F7-8C0D-2C0E6DB31514"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F3FBECF3-30A3-4DEE-9F29-FB8018D0A11F/F4F88E51-5DC3-467B-9D65-19B9F7B3DF92_symbolID",
+      "value": "45192640-7AB6-4B67-B8E0-9D0D5A203A30"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07FC93F9-6489-4586-A8AD-6471C7FB49E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA629314-8955-48A9-AFF9-7395691FFF67",
+  "verticalSpacing": 0
+}

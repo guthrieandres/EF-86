@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "ED8FA7CA-0651-4388-989D-C54F894CB056",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 232,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D64833A-222E-448E-BBBA-F268ED3F24E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F241C38F-A6CD-4B8F-8290-E10409D2AF62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "629181D6-441C-44E1-84BB-5082EEAD1382",
+    "height": 40,
+    "width": 232,
+    "x": 433,
+    "y": 560
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "903D18D8-4193-46C9-B383-A7A7C8A519E4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "12157F02-DAB6-40FE-803A-E29782C321DB"
+    }
+  ],
+  "name": "My Assessments/Selected Copy 2",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "637E6DBF-3537-4ACA-BF7C-F465995C344F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "04B42F9C-C96F-4627-9B17-442B15C95F38",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "46F5F0DD-8DF9-49BF-910E-BCA74BD07199",
+    "guides": [
+    ]
+  }
+}
