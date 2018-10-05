@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "98A2BC50-2F92-47CF-A54D-9B34867C003D",
+  "do_objectID": "1343021C-862C-42DC-9AAF-05DFCF81F96C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "17DCDE08-F874-411D-B0A4-FEA3EFBC3B19",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
+    "do_objectID": "DFCF9A9B-9FF6-4F36-9771-912DD5701A45",
+    "height": 119,
     "width": 220,
-    "x": 484,
-    "y": 567
+    "x": 1095,
+    "y": 383
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,18 +30,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "In-Page UI Copy 3",
+  "name": "In-Page UI",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
       "overrideName": "D7142333-BBDB-48F8-9289-E2CF651268CD_stringValue",
-      "value": "Toast"
+      "value": "Learnosity Edit Item Modal"
     },
     {
       "_class": "overrideValue",
       "overrideName": "D3F96C83-0747-4A5A-AA5E-3D0F613AA38F_stringValue",
-      "value": "Your Item has been Updated in this assessment and in My Items"
+      "value": "This is pulled directly from Learnosity, hopefully with some modifications. It should be autopopulated from existing item."
     }
   ],
   "resizingConstraint": 63,
@@ -49,6 +51,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "2F7DD4C3-5A11-41E4-9072-7F115922456C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

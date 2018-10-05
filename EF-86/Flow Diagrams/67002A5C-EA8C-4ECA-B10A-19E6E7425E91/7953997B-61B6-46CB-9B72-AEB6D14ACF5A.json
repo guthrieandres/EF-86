@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "98A2BC50-2F92-47CF-A54D-9B34867C003D",
+  "do_objectID": "7953997B-61B6-46CB-9B72-AEB6D14ACF5A",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "95BA42C9-C02D-455C-A7B5-DFDCC92FEDEB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,45 +16,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
-    "width": 220,
-    "x": 484,
-    "y": 567
+    "do_objectID": "3A451F4F-0A57-4737-86DC-8B007557E40C",
+    "height": 879,
+    "width": 1534,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "In-Page UI Copy 3",
+  "name": "Artboard Template",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "D7142333-BBDB-48F8-9289-E2CF651268CD_stringValue",
-      "value": "Toast"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "D3F96C83-0747-4A5A-AA5E-3D0F613AA38F_stringValue",
-      "value": "Your Item has been Updated in this assessment and in My Items"
+      "overrideName": "51B0D304-2AFC-4D9C-B529-3B19F43F33C5_stringValue",
+      "value": "As a teacher I need to edit my item from My Item's bank."
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "35CAF435-17CE-4689-82C9-EABDFCC102AB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4C68BF54-92BB-4EF2-B680-94E2DB21C240",
+  "symbolID": "6954F30C-5916-4C68-8DBB-920D8E94D0B6",
   "verticalSpacing": 0
 }

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "98A2BC50-2F92-47CF-A54D-9B34867C003D",
+  "do_objectID": "8A8B70D9-3950-4F15-BDED-21FC31D4C172",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3C9FB644-27A4-4D4D-AB27-2278CBDD256E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "AE1B2346-DCBF-4873-B819-A44944A7B69E",
     "height": 100,
     "width": 220,
-    "x": 484,
-    "y": 567
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,18 +30,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "In-Page UI Copy 3",
+  "name": "Page",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "D7142333-BBDB-48F8-9289-E2CF651268CD_stringValue",
-      "value": "Toast"
+      "overrideName": "09E31620-76E1-4B23-B30A-65C04BD6EE6A_stringValue",
+      "value": "Assessment Detail Page"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "D3F96C83-0747-4A5A-AA5E-3D0F613AA38F_stringValue",
-      "value": "Your Item has been Updated in this assessment and in My Items"
+      "overrideName": "DA93CFC3-E1C7-496E-8F75-04E8D830B035_stringValue",
+      "value": " "
     }
   ],
   "resizingConstraint": 63,
@@ -49,11 +51,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9A74383D-B32C-4770-BD51-16A3EB80C0C7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4C68BF54-92BB-4EF2-B680-94E2DB21C240",
+  "symbolID": "CA3DC451-7281-4BB8-9389-6B6B2216F6FC",
   "verticalSpacing": 0
 }

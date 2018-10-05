@@ -2,10 +2,11 @@
   "_class": "shapePath",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "780210A0-2EA5-4B02-AE4E-77DEFD8FE9AE",
+  "do_objectID": "294E33EE-3F31-4C28-927D-CFD45B1A9B9F",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1972E6C1-E60E-431A-A298-9D20E90CA71E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,9 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "C8FC247C-56F9-4D7C-BE0C-1CDFF0021208",
     "height": 1,
-    "width": 133,
-    "x": 1132,
+    "width": 232,
+    "x": 862,
     "y": 436
   },
   "hasClippingMask": false,
@@ -29,16 +31,16 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Path 9",
+  "name": "Path 5",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0.5}",
+      "curveFrom": "{-0.05256948306955922, 0.5}",
       "curveMode": 1,
-      "curveTo": "{0, 0.5}",
+      "curveTo": "{-0.05256948306955922, 0.5}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
       "point": "{0, 0.5}"
@@ -77,6 +79,7 @@
         "thickness": 2
       }
     ],
+    "do_objectID": "4065D69E-A655-4DF9-8782-129463F0E682",
     "endDecorationType": 2,
     "endMarkerType": 2,
     "fills": [

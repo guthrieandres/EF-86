@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "98A2BC50-2F92-47CF-A54D-9B34867C003D",
+  "do_objectID": "9A7F28E0-19EC-44E0-8817-904E47BCB144",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7831D2CF-BABE-4197-90FB-97ECD00A896A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,6 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "E717C3AF-9AD6-4FD1-B2B2-A803393DF218",
     "height": 100,
     "width": 220,
     "x": 484,
@@ -39,7 +41,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "D3F96C83-0747-4A5A-AA5E-3D0F613AA38F_stringValue",
-      "value": "Your Item has been Updated in this assessment and in My Items"
+      "value": "Your Item has been Updated in My Items and in all unassigned assessments."
     }
   ],
   "resizingConstraint": 63,
@@ -49,6 +51,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "48505EFC-2549-4808-9308-92941C13BAF6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

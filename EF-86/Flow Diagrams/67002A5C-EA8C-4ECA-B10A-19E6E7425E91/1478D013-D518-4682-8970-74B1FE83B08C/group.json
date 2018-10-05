@@ -1,10 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "98A2BC50-2F92-47CF-A54D-9B34867C003D",
+  "do_objectID": "1478D013-D518-4682-8970-74B1FE83B08C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "619F0018-27E2-4ED1-B910-4B04B02F14E9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,45 +16,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "B9BB7750-2882-46B8-A9AF-1231EFC56A54",
     "height": 100,
     "width": 220,
-    "x": 484,
+    "x": 799,
     "y": 567
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "In-Page UI Copy 3",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "D7142333-BBDB-48F8-9289-E2CF651268CD_stringValue",
-      "value": "Toast"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "D3F96C83-0747-4A5A-AA5E-3D0F613AA38F_stringValue",
-      "value": "Your Item has been Updated in this assessment and in My Items"
+      "class": "symbolInstance",
+      "id": "8A8B70D9-3950-4F15-BDED-21FC31D4C172"
     }
   ],
+  "name": "Group Copy",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6AD385A7-3AE9-445F-9040-C4DD9825CBF4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "4C68BF54-92BB-4EF2-B680-94E2DB21C240",
-  "verticalSpacing": 0
+  }
 }

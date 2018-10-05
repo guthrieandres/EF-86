@@ -71,10 +71,6 @@
       "id": "DD7C0FF3-20B0-4921-B09A-C118F5CA9661"
     },
     {
-      "class": "text",
-      "id": "42272622-F88D-4F34-B221-4438E32322E9"
-    },
-    {
       "class": "shapePath",
       "id": "85058D2F-F4DC-45F7-9A4B-7886CB559E6A"
     },
@@ -84,19 +80,7 @@
     },
     {
       "class": "text",
-      "id": "E67599CF-3D72-4EDF-BDD2-E7D8609D80DA"
-    },
-    {
-      "class": "text",
       "id": "5C28F331-53FD-4BF2-9865-7C48AF94E405"
-    },
-    {
-      "class": "shapePath",
-      "id": "780210A0-2EA5-4B02-AE4E-77DEFD8FE9AE"
-    },
-    {
-      "class": "shapePath",
-      "id": "F05CE6B9-6DF6-41B8-B8FA-84F667B20E50"
     },
     {
       "class": "shapePath",
@@ -123,10 +107,6 @@
       "id": "21C28772-A6D5-4303-98DA-E87A9AEE1CA6"
     },
     {
-      "class": "symbolInstance",
-      "id": "1B42B35C-D3D1-4278-A9D3-1304A90378D5"
-    },
-    {
       "class": "group",
       "id": "19D11895-68FF-4A48-89D4-E5440DCDF371"
     },
@@ -135,7 +115,7 @@
       "id": "8866EF7A-43D4-4993-81ED-1FF628B2FDCA"
     }
   ],
-  "name": "Edit HMH Item Within Assessment Copy",
+  "name": "Edit My Item Within Assessment",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

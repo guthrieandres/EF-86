@@ -9,38 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8666666666666667,
-            "green": 0.5882352941176471,
-            "red": 0.1764705882352942
+            "blue": 0.4941176470588236,
+            "green": 0.1529411764705882,
+            "red": 0.8823529411764706
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SlatePro-Medium",
-              "size": 10
+              "size": 14
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
             "paragraphSpacingBefore": 55,
             "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 11,
+        "length": 51,
         "location": 0
       }
     ],
-    "string": "[Edit Item]"
+    "string": "Acceptance Criteria:\nAssessment must be unassigned."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FA50675A-3315-4A27-A40A-8FD896CC98A2",
+  "do_objectID": "4DA6C02F-A248-42DF-A1EA-A11244F51F4A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,12 +56,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 10,
-    "width": 45,
-    "x": 956,
-    "y": 421
+    "height": 103,
+    "width": 195,
+    "x": 47,
+    "y": 722
   },
-  "glyphBounds": "{{0, 0}, {44, 9}}",
+  "glyphBounds": "{{-1, 7}, {196, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,15 +70,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "[Edit Item]",
+  "name": "Acceptance Criteria:",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "A7BB6DAC-4756-4CFF-94A1-8C5F297839C5",
+  "sharedStyleID": "4AEC8818-0363-4FAF-95DA-212D780F739E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B4FA0662-FD50-4E06-A888-3640DE461F92",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -86,29 +89,31 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8666666666666667,
-          "green": 0.5882352941176471,
-          "red": 0.1764705882352942
+          "blue": 0.4941176470588236,
+          "green": 0.1529411764705882,
+          "red": 0.8823529411764706
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SlatePro-Medium",
-            "size": 10
+            "size": 14
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
           "paragraphSpacingBefore": 55,
           "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },

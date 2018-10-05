@@ -40,10 +40,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E67599CF-3D72-4EDF-BDD2-E7D8609D80DA",
+  "do_objectID": "D70573C7-6217-4CF0-A72E-557F84591585",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6EA760BA-B878-4803-815A-5316AFA32B3F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,9 +55,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "302D4002-379D-4AFF-9D06-C0D6B01576E4",
     "height": 10,
     "width": 36,
-    "x": 1390,
+    "x": 1214,
     "y": 302
   },
   "glyphBounds": "{{0, 0}, {35, 9}}",
@@ -76,11 +78,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B5FC3438-41CC-4781-BA71-16B626F9464E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "6DAF6E60-EE70-4554-8FE5-BA3E071437AD",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
