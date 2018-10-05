@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "19ADA62C-04A5-4EA7-8B34-C740608F8FF7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF0F2F32-738B-460E-9521-A26F4B649C2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28B4B89D-F06C-4124-A720-6BF5A7D1AB37",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02E910E2-E2C6-4906-8D46-A7AF93A90F86",
+    "height": 730,
+    "width": 1366,
+    "x": -397,
+    "y": 1362
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EB1AFFEF-508C-4FDE-B93F-5316F565720E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B2C8C8F6-83E7-4188-806C-6ED225C3DC95"
+    },
+    {
+      "class": "text",
+      "id": "AD129EC2-4003-4CB0-933F-D4AFF493A115"
+    },
+    {
+      "class": "text",
+      "id": "793FEC90-7947-43D4-B40B-171D20210169"
+    },
+    {
+      "class": "group",
+      "id": "717A1B75-716C-4950-A543-180163777DB3"
+    },
+    {
+      "class": "group",
+      "id": "8DAEF163-2D72-434C-B068-3588374CB4BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75E20659-20BF-4048-A954-CBB5BF30F421"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "806F78AD-17C8-4ADF-9536-97A0E4555B4A"
+    },
+    {
+      "class": "text",
+      "id": "A7F7FDF8-8200-4620-BD00-004E84642B7E"
+    },
+    {
+      "class": "text",
+      "id": "D7DFB9E3-DF07-44E3-B844-421E84F49B6E"
+    },
+    {
+      "class": "text",
+      "id": "6E492985-7356-4AA8-B630-1C9698D3FD6F"
+    },
+    {
+      "class": "rectangle",
+      "id": "9845B686-CB18-41F1-B8BF-421A855FB868"
+    }
+  ],
+  "name": "Tabbed Left Panel HMH",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9F40A3D-7D4A-45CF-AE21-F9155693B339",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2A871C92-F0CB-4F65-BAEB-5A14AB89B943",
+    "guides": [
+    ]
+  }
+}

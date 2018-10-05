@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC31C09F-7299-41E0-A8D4-88B94E3FDBBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3576CF67-876E-439A-B678-EEE7F7C3AA15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B697CB15-7BC0-4280-A739-FC0419C76D91",
+    "height": 54,
+    "width": 300,
+    "x": 0,
+    "y": 675
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "M10",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "63EF4A58-67BB-42BC-A5C0-052FD3F46CED_stringValue",
+      "value": "Module 10: Lorem Ipsum"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6D73E8E-0E61-47F6-9672-C70F3456E59C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59A12C8B-D71F-44FE-8459-14E30D465C27",
+  "verticalSpacing": 0
+}

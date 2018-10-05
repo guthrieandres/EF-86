@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SlatePro-Medium",
+              "name": "ArialNarrow",
               "size": 14
             }
           },
@@ -33,11 +33,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 51,
+        "length": 43,
         "location": 0
       }
     ],
-    "string": "Acceptance Criteria:\nAssessment must be unassigned."
+    "string": "Acceptance Criteria:\nnt must be unassigned\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,12 +56,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 103,
-    "width": 195,
+    "height": 182,
+    "width": 116,
     "x": 47,
     "y": 722
   },
-  "glyphBounds": "{{-1, 7}, {196, 37}}",
+  "glyphBounds": "{{-1, 6}, {116, 38}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -96,7 +96,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SlatePro-Medium",
+            "name": "ArialNarrow",
             "size": 14
           }
         },

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D9C8BCC7-488D-418E-8918-414399EF83D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 730,
+    "width": 1366,
+    "x": 1642,
+    "y": 3045
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "027700BB-79F1-43C2-A308-CC699F5A8813"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "172A7D6B-D1AA-4D68-94AB-23A82E5C35E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3EF1C9C1-C781-4B04-9312-1F2A067F17BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66D964E1-F692-4C29-B320-A35364899B89"
+    }
+  ],
+  "name": "Page/S03_04_03 - Add Items View Assessment Items Added",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

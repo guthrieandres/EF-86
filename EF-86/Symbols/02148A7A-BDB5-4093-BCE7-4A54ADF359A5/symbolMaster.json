@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 467,
+  "changeIdentifier": 667,
   "clippingMaskMode": 0,
   "do_objectID": "02148A7A-BDB5-4093-BCE7-4A54ADF359A5",
   "exportOptions": {
@@ -53,12 +53,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "3088BA8A-59C6-47F8-B5AA-C21676E6BEB4"
-    },
-    {
-      "class": "rectangle",
-      "id": "941098A0-2143-4FDB-9476-6FB416CDFA6D"
+      "class": "group",
+      "id": "97D6275F-FE24-4913-8152-D5B9551AC38E"
     },
     {
       "class": "symbolInstance",
@@ -71,6 +67,14 @@
     {
       "class": "group",
       "id": "B2CE91C7-0FD0-48EE-8760-148890B3A2D1"
+    },
+    {
+      "class": "text",
+      "id": "52111E14-F0E0-43A5-9468-4F0915F97E3F"
+    },
+    {
+      "class": "text",
+      "id": "42491693-6BF1-48FD-B53F-35FC2ACBCEB5"
     }
   ],
   "name": "Sidepanel/My Assessments & Plans Copy",

@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "158DF329-0C78-4DD1-BE7F-264823182E06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A159A50-781A-4CF9-A3A4-EAB3D3D0FC46",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "12472351-5D1C-4AC5-8116-7B81F12F2DD2",
+    "height": 782,
+    "width": 301,
+    "x": 0,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "13B9AA2D-2DCF-459B-B3B9-4C20BCBE0DF1"
+    },
+    {
+      "class": "rectangle",
+      "id": "84B10874-E081-44AF-8923-23342509667E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C8F4AC1-0299-4BC4-9E50-8078CE5F3DB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC31C09F-7299-41E0-A8D4-88B94E3FDBBE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C8B5AAE-CB02-4167-AA80-97B38BAD5461"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F10EE080-2CEE-40EF-94DB-6D3A410C20EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34BA24D7-07EE-4859-8175-4685C8CB60B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73EF7431-C821-4236-93A1-BB9EDA3E2609"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDA5776D-CBA5-42CE-A918-03DAFAAAC6B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8478341-BACC-48C0-9E5D-2DC7910106B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7638054C-1569-497E-87E3-0CE32EB2733D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9201589A-979A-4E40-80A5-160DB8F8D180"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA255482-7AD0-4A83-8264-9AA0C2A28F9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A946A5AC-12F7-42FA-8875-692E3B6E8926"
+    }
+  ],
+  "name": "Sidepanel/Curriculum Hierarchy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9950955-ADEF-4CD3-97D7-CDB024484FB4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

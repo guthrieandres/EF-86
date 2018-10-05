@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DAEF163-2D72-434C-B068-3588374CB4BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 782,
+    "width": 301,
+    "x": 0,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EE415DDC-EDFF-4CE8-B988-C1D7648E7708"
+    },
+    {
+      "class": "rectangle",
+      "id": "5E5692EC-8B10-47F2-B19A-6C4FDD968251"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C371B077-2260-4E1B-9A3A-CC5949996E4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89E06978-4404-4B75-9010-9DB1B4CBB413"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1477087C-E36F-4A54-AF78-D12794BB986F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4EC82E1-E211-4BC6-98E0-541F63EFC5A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCE8665F-22D4-43AC-9AE5-40CE57E07AB6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "372C7915-468C-4B53-B5EC-50C3ECA407FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE291B6D-8370-4EA7-8A8D-DF9F6EA22F07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40B12F35-1FF0-4118-8A1F-6666FA75AD14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5750076C-3E2D-4044-A0FF-D58AEF8774E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9ABE1C2B-9C74-4732-B3A6-A6F9BB593B6D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44888308-3DB6-47BE-B192-0CA765623A06"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5AEC7C50-2851-4637-AD38-29D582CC6871"
+    }
+  ],
+  "name": "Sidepanel/Curriculum Hierarchy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

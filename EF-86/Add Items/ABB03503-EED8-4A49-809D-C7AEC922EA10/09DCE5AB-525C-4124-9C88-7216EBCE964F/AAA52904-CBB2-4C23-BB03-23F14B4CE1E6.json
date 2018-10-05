@@ -20,7 +20,7 @@
     "height": 72,
     "width": 1002,
     "x": 0,
-    "y": 418
+    "y": 400
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -33,11 +33,6 @@
   "name": "Item 6",
   "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "335E6331-8DCF-4D7B-8167-E8EA99532E32_stringValue",
-      "value": "Count how many."
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

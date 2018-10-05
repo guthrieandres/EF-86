@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5D582FD3-0615-4119-9D32-97E02D2C22A4",
-    "height": 490,
+    "height": 552,
     "width": 1002,
     "x": 332,
-    "y": 225
+    "y": 171
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,6 +34,10 @@
     {
       "class": "symbolInstance",
       "id": "AAA52904-CBB2-4C23-BB03-23F14B4CE1E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E91CE219-C033-49A1-A5AC-BD42A619E464"
     },
     {
       "class": "symbolInstance",
@@ -54,26 +58,6 @@
     {
       "class": "symbolInstance",
       "id": "313A2661-AD86-4886-B427-E66361B2B31F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B72E4166-100E-4E02-B3CA-01325858376E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "35F30748-7BAB-48FA-AE54-F0AB4DB94A53"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "93FBE6C5-2518-4AAE-8DA1-5EE2990D7056"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "49AB4509-B7B1-4C61-BC7A-05D5A0CA9F46"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FD0808A8-D2A9-4A21-8157-A6C1E5A303CA"
     }
   ],
   "name": "Panel/ItemList",

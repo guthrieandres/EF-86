@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FE27FD6-0C84-47B4-972A-C70EF56B5DA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 730,
+    "width": 1366,
+    "x": 2549,
+    "y": 1362
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "443CA783-9DF7-4542-B769-22869D70EFA6"
+    },
+    {
+      "class": "text",
+      "id": "90A55245-9B63-45B3-9066-90FF70AA2735"
+    },
+    {
+      "class": "group",
+      "id": "39096B54-3673-47BA-A68A-CF8BA479349E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "480A440E-C366-4700-BB7A-72B1BA060264"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "172EC874-25D2-4862-8E55-F881483A414C"
+    },
+    {
+      "class": "text",
+      "id": "549DE63A-04D5-422A-AE21-28641894AA71"
+    },
+    {
+      "class": "text",
+      "id": "7F2BF431-66E3-4F35-844E-586FD329CE11"
+    },
+    {
+      "class": "text",
+      "id": "7DE86801-AA3F-4EE3-A469-C4D4842E90E0"
+    },
+    {
+      "class": "rectangle",
+      "id": "6EB061A5-BC6C-4EF8-A0C3-D94CD3DD5261"
+    },
+    {
+      "class": "text",
+      "id": "ED3B8086-2F38-4E38-B179-C9AB3628B9E2"
+    }
+  ],
+  "name": "Tabbed Left Panel three options Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

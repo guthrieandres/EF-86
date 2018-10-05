@@ -29,15 +29,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "0DB9571C-FC24-4036-8231-1981E9FD657A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "56600EBE-220E-4F24-B565-45C5D9A975FA"
     }
   ],
   "name": "Group 8",

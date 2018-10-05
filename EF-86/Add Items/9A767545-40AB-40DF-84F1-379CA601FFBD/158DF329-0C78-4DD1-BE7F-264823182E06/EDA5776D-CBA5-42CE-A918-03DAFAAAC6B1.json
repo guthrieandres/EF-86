@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDA5776D-CBA5-42CE-A918-03DAFAAAC6B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3EC32D98-2A43-4168-BB86-9E68ADD82FD7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C53746C-5052-4EE5-BE0A-3704A84FCDC5",
+    "height": 54,
+    "width": 300,
+    "x": 0,
+    "y": 410
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "M5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "63EF4A58-67BB-42BC-A5C0-052FD3F46CED_stringValue",
+      "value": "Module 5: Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D2DF7428-7F70-4F15-9298-64E991F05ECC_stringValue",
+      "value": "Lesson 3: Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D5684349-890C-4618-9D90-4584D61D1E22_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C0ECDC1B-46FE-4AED-BC40-F168B2750696",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5E3A06DE-A223-41F2-A856-5AF3CE06BEF6",
+  "verticalSpacing": 0
+}

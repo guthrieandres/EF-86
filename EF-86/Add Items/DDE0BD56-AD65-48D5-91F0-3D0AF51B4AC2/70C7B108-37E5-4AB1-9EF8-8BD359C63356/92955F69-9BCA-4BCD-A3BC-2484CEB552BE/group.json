@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9FCDCBF2-DCA9-4C14-AD44-36FC42853B0E",
-    "height": 490,
+    "height": 552,
     "width": 1002,
     "x": 0,
     "y": 0
@@ -41,6 +41,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "CA1F022A-B473-42DF-8CEE-E87059DB9A00"
+    },
+    {
+      "class": "symbolInstance",
       "id": "470DE8CC-184B-4EF0-BF42-82539EABAD56"
     },
     {
@@ -54,30 +58,6 @@
     {
       "class": "symbolInstance",
       "id": "EC53D1F9-332F-441A-9013-0580C4303234"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "461B8960-2787-4643-B3C0-488D24DD1AE3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5C616088-76B5-45FD-9F64-0885E2147FA2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D72DF6DB-BC03-4445-B8EF-1B1168E3E6D0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "312C1FF2-9C21-4D39-A0B4-5800C31B7775"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DD1403A1-4AD5-4FA8-AE4D-CB197FBC9C88"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6606987F-945F-4278-AB5D-1A7D76A90A61"
     }
   ],
   "name": "Panel/ItemList",

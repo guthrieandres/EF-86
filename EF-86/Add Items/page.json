@@ -42,6 +42,18 @@
     },
     {
       "class": "artboard",
+      "id": "CF0F2F32-738B-460E-9521-A26F4B649C2B"
+    },
+    {
+      "class": "artboard",
+      "id": "9A767545-40AB-40DF-84F1-379CA601FFBD"
+    },
+    {
+      "class": "artboard",
+      "id": "6FE27FD6-0C84-47B4-972A-C70EF56B5DA6"
+    },
+    {
+      "class": "artboard",
       "id": "68B39F0F-03FB-4356-9B33-8098F3B1E857"
     },
     {
@@ -55,6 +67,10 @@
     {
       "class": "artboard",
       "id": "A7EF3A67-FE76-47F2-9933-D9EA906FCBAF"
+    },
+    {
+      "class": "group",
+      "id": "D9C8BCC7-488D-418E-8918-414399EF83D8"
     }
   ],
   "name": "Add Items",
@@ -69,6 +85,13 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorCenterSpacing": 0,
+      "distributorDimension": 1,
+      "distributorSpacing": "8"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
