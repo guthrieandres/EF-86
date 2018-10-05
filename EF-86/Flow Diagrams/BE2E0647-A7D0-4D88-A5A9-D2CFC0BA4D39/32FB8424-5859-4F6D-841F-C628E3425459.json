@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "32FB8424-5859-4F6D-841F-C628E3425459",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA2FFF66-7222-4089-8F87-E94C3AD4EF25",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7BB13B21-CE29-40B2-AC04-EB67E18AE2AE",
+    "height": 100,
+    "width": 220,
+    "x": 1272,
+    "y": 391
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "In-Page UI Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DE6B739-4190-4118-A96B-9BA1538ABAC3",
+      "overrideName": "D7142333-BBDB-48F8-9289-E2CF651268CD_stringValue",
+      "value": "Confirmation/Disclaimer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C71B9E2-0725-4310-AB94-746311893242",
+      "overrideName": "D3F96C83-0747-4A5A-AA5E-3D0F613AA38F_stringValue",
+      "value": "You are modifying an HMH Item. This item may no longer be associated with the original standards"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE0C0445-DD3C-416F-BDE5-92153F7AA638",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4C68BF54-92BB-4EF2-B680-94E2DB21C240",
+  "verticalSpacing": 0
+}

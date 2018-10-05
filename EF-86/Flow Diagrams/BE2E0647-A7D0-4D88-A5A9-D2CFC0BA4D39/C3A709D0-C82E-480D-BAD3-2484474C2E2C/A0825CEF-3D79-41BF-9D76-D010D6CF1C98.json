@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0825CEF-3D79-41BF-9D76-D010D6CF1C98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC140A4F-9DA6-46E0-8E42-621A7568FC1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5379866-ECBD-4045-9F68-7CDAB996D9E2",
+    "height": 100,
+    "width": 220,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA457E20-9ED8-479E-8E1C-E3C40226AC1D",
+      "overrideName": "09E31620-76E1-4B23-B30A-65C04BD6EE6A_stringValue",
+      "value": "Assessment Detail Page"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99F8811C-160A-400C-B35E-E7C2A0962930",
+      "overrideName": "DA93CFC3-E1C7-496E-8F75-04E8D830B035_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6B7D590-D200-4A49-83CF-DEC4BFA506F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA3DC451-7281-4BB8-9389-6B6B2216F6FC",
+  "verticalSpacing": 0
+}

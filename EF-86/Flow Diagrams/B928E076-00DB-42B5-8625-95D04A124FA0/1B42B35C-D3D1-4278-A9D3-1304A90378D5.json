@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B42B35C-D3D1-4278-A9D3-1304A90378D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 220,
+    "x": 1272,
+    "y": 391
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "In-Page UI Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D7142333-BBDB-48F8-9289-E2CF651268CD_stringValue",
+      "value": "Confirmation/Disclaimer"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3F96C83-0747-4A5A-AA5E-3D0F613AA38F_stringValue",
+      "value": "You are modifying an HMH Item. This item may no longer be associated with the original standards"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4C68BF54-92BB-4EF2-B680-94E2DB21C240",
+  "verticalSpacing": 0
+}

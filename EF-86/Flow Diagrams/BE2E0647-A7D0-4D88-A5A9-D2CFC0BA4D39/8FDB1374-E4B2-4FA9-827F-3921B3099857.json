@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8FDB1374-E4B2-4FA9-827F-3921B3099857",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C80CC01B-2F79-4D4F-841C-49BE0F900CF2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9846ABF-DB52-42EE-BCFE-163AEB0E2BC4",
+    "height": 100,
+    "width": 220,
+    "x": 300,
+    "y": 567
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "In-Page UI Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56E4279D-1F0B-4E94-B020-DC0E5704BC01",
+      "overrideName": "D7142333-BBDB-48F8-9289-E2CF651268CD_stringValue",
+      "value": "Toast"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37A10ABD-65FA-42B0-8522-192AB55BAACD",
+      "overrideName": "D3F96C83-0747-4A5A-AA5E-3D0F613AA38F_stringValue",
+      "value": "HMH Item has been duplicated and added to My Items. It has been updated in your assessment."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D14A3A57-8641-4A1A-A8BA-F4A7A3348412",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4C68BF54-92BB-4EF2-B680-94E2DB21C240",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "313A2661-AD86-4886-B427-E66361B2B31F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "160B2A8F-033D-477E-8C5C-4413C806B1D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "977B3914-180E-4249-A9F5-99763EA5BF2B",
+    "height": 72,
+    "width": 1002,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "335E6331-8DCF-4D7B-8167-E8EA99532E32_stringValue",
+      "value": "What are the next 5 numbers? 104, ______ , ______ , ______ , ______ , ______ "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6D64A398-277A-4509-AD29-9F14416E40D9_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E288ED9-566F-499F-9193-640469A13577",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0945BD0A-4620-4F9C-9B49-741A4BD0423C",
+  "verticalSpacing": 0
+}

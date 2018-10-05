@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "21C28772-A6D5-4303-98DA-E87A9AEE1CA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 119,
+    "width": 220,
+    "x": 911,
+    "y": 383
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "In-Page UI",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D7142333-BBDB-48F8-9289-E2CF651268CD_stringValue",
+      "value": "Learnosity Edit Item Modal"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3F96C83-0747-4A5A-AA5E-3D0F613AA38F_stringValue",
+      "value": "This is pulled directly from Learnosity, hopefully with some modifications. It should be autopopulated from existing item."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4C68BF54-92BB-4EF2-B680-94E2DB21C240",
+  "verticalSpacing": 0
+}

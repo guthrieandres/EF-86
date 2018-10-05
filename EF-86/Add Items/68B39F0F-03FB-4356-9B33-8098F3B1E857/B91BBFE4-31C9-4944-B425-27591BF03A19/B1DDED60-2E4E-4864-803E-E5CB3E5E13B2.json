@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1DDED60-2E4E-4864-803E-E5CB3E5E13B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06B6E777-A1D4-49E9-AFAC-75400357B45E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "967AFA6C-C485-494B-B026-120139DD293E",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/sml/chevron-down-1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54C2C3EB-9C91-4F53-96B9-16912DD24B20",
+      "overrideName": "41B5EA92-D0D3-41FF-8B71-82A450B983D1_symbolID",
+      "value": "4EB2C2AD-191F-425F-AD07-9418EE7311D1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BBF4C0F-F910-4189-B45F-076C72CEF399",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3D0573D-66A9-4DB2-A2BE-FAEDF116D423",
+  "verticalSpacing": 0
+}

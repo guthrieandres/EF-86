@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92955F69-9BCA-4BCD-A3BC-2484CEB552BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C85702F1-941E-43B7-9C64-AB16B645D4CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FCDCBF2-DCA9-4C14-AD44-36FC42853B0E",
+    "height": 490,
+    "width": 1002,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2904D9D4-E357-44CC-A5AB-BC30203E2788"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1897E7C-CB2D-43AF-9A50-706ADE36B3EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "470DE8CC-184B-4EF0-BF42-82539EABAD56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D727E283-C44A-41FB-B17D-9C07A208D2BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3570B59-CE59-4A7C-9139-EEC9E8BFA89F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC53D1F9-332F-441A-9013-0580C4303234"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "461B8960-2787-4643-B3C0-488D24DD1AE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C616088-76B5-45FD-9F64-0885E2147FA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D72DF6DB-BC03-4445-B8EF-1B1168E3E6D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "312C1FF2-9C21-4D39-A0B4-5800C31B7775"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD1403A1-4AD5-4FA8-AE4D-CB197FBC9C88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6606987F-945F-4278-AB5D-1A7D76A90A61"
+    }
+  ],
+  "name": "Panel/ItemList",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99E4C472-839E-47D3-832F-929E78F71D79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

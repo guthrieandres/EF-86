@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BD1D9269-30B2-4D8A-98B7-363758F40CCD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7EF3A67-FE76-47F2-9933-D9EA906FCBAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "030C75FB-355B-4C70-8CB5-5E85524F4848",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA2AB8B5-F3D5-43A1-9A24-62F640A93CEF",
+    "height": 730,
+    "width": 1366,
+    "x": 5481,
+    "y": -426
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B9185096-CDEE-4CF6-884D-F6881423CE93",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4472F7E5-C08E-4FDE-9418-4653C13F5556"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7762A086-4BD6-49AC-8C5B-D4139E59B3A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2D68DAB-81CB-46B7-8F5C-D4A981E5D53D"
+    },
+    {
+      "class": "text",
+      "id": "BD8F546B-A6FC-466D-A331-21B39A2BCF1F"
+    },
+    {
+      "class": "text",
+      "id": "744A34AF-C71E-40DF-98D5-A3A86C5BDEA6"
+    },
+    {
+      "class": "text",
+      "id": "69909999-A341-49DA-9BB1-F3D42C4C1BC6"
+    },
+    {
+      "class": "rectangle",
+      "id": "0D14257D-2335-4686-B608-1D2368C7A05A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAD4461E-0F1B-4820-906D-588EAA381D32"
+    }
+  ],
+  "name": "Page/S03_04_03 - Add Items View Assessment Items Added Copy 4",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B86639E-2388-4681-A7EE-8D6A76E70DA9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8519D02-B7B3-4BF0-B353-703AEBB82F5C",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F8C639C8-7543-4B90-BF3A-3875A83D5002",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ABB03503-EED8-4A49-809D-C7AEC922EA10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C4DC5E2-ED5A-4342-9999-0777127D8E42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28CBA008-DE34-4BDE-B697-EFCC11549ACD",
+    "height": 730,
+    "width": 1366,
+    "x": -383,
+    "y": -426
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5EE2EE09-3D88-441E-94D6-91454B875A79",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "09DCE5AB-525C-4124-9C88-7216EBCE964F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B2AA701-8ECD-4352-9181-1978E11C6385"
+    },
+    {
+      "class": "rectangle",
+      "id": "8324E90A-BD61-486E-9918-400173BFD3F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7C95A18-0F3E-422D-9E83-0AA191B9417F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6EC6B337-41C4-41A0-A990-B035EDA297BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E77DF3EC-A784-4697-8596-24E341B206A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C6977302-EE89-4C25-9D9A-20AC25D045E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71FB2077-5B9A-427F-A62D-70C7AB8C9C6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BABC481-0829-4A17-9E0C-B302F29C534B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3E4E561-A3F5-4774-A18F-7E41DC20BF0D"
+    },
+    {
+      "class": "text",
+      "id": "7802F854-5300-4235-9507-5B64FF9159F0"
+    },
+    {
+      "class": "text",
+      "id": "2A35AA97-EC07-41BB-B617-4511924B0043"
+    },
+    {
+      "class": "text",
+      "id": "33914410-F4F5-4E21-8B28-27194449AE75"
+    },
+    {
+      "class": "rectangle",
+      "id": "1BBFB6D8-6CBE-4400-9945-9BF964491D84"
+    }
+  ],
+  "name": "Page/S03_04_03 - Add Items View Assessment Items Added",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ACCFC080-EC5F-4D50-B481-9B8E931A3C4F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "049DEC0F-2BF5-4973-81DA-8A4D3B3837AC",
+    "guides": [
+    ]
+  }
+}
