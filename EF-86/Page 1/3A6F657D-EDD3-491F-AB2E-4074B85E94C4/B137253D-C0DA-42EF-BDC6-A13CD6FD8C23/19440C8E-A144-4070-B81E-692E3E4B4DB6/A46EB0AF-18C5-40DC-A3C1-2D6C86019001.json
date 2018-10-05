@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A46EB0AF-18C5-40DC-A3C1-2D6C86019001",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "473353BA-AD91-40E0-8984-F966E278ACB1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93DB1A39-A396-4827-8464-1E6EBD1180D8",
+    "height": 72,
+    "width": 72,
+    "x": 168,
+    "y": 3
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/lge/chevron-right",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "291E1BAA-DEE5-476E-80FE-1C1EAEF382A0",
+      "overrideName": "725A07EC-0B2A-48FF-83C5-FD4177BC949F_symbolID",
+      "value": "837B6854-311F-4F14-8812-400C2249FBA2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CB84CF00-610E-4BDA-BBD9-D6D8F93A7449",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9343E3BE-77A8-4EE1-A723-DD2FDA4AC4ED",
+  "verticalSpacing": 0
+}

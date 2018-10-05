@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C88BA9F-0005-4F47-A873-76233BCFF233",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6FDD9E2-F27E-4A4E-BB9E-BDBC6F235DB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B35D263-C55F-4E6B-AF19-A6209C57DB44",
+    "height": 80,
+    "width": 1061,
+    "x": 266,
+    "y": 258
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F25B3063-B9FB-4A85-8A59-172A3BEC3BFB"
+    }
+  ],
+  "name": "ListItem/Custom Assessment Copy 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDD67653-6A16-47AD-A4A1-204B6E1D00CE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "00F0F8A3-DB5C-4A7F-BC6D-2E7E24342B84",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2EC79925-E106-49D2-B42E-329779F5802C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23E0FAF1-2BF6-4652-9CCC-FB917976887F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A3D40C0-466B-42B0-81C9-EE1BB89D1F41",
+    "height": 680,
+    "width": 1366,
+    "x": 5722,
+    "y": -1125
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1B6E2B4E-7B23-4FE3-BD7B-68AF8B1F50DD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B205EBDC-D7EA-4A8D-A983-65F263F48885"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E906061-D8CF-490A-8842-5DC83F16AEA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "279AAEF6-12A1-4555-BB56-49318A658DE1"
+    },
+    {
+      "class": "text",
+      "id": "226D6C3B-A6A8-4FFC-BB4B-1C023DBF16B9"
+    },
+    {
+      "class": "group",
+      "id": "DFE494D2-8D1C-4ED6-BF06-62889C4256A0"
+    },
+    {
+      "class": "group",
+      "id": "6C88BA9F-0005-4F47-A873-76233BCFF233"
+    },
+    {
+      "class": "group",
+      "id": "B21CF3EB-4B93-4FC4-9B40-0E7D31137C56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5563950A-D57D-4E8A-976A-A7A4C4B674D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E04E7D8-760B-449B-B044-AC1D394A93F1"
+    }
+  ],
+  "name": "My Assessments with Items Copy 5",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "123C413A-8A09-4082-86AA-A1E16E22FE14",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "379F4538-B8F2-41F1-A1B4-A3C2CC9ABD1E",
+    "guides": [
+      316
+    ]
+  }
+}

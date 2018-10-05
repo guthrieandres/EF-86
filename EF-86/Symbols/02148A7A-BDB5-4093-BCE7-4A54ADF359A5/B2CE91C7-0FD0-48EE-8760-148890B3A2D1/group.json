@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2CE91C7-0FD0-48EE-8760-148890B3A2D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2066488-34A0-4BE7-9F48-514530E36741",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43FEB4B9-CADA-470C-8BAF-21C9F19513DE",
+    "height": 40,
+    "width": 100,
+    "x": 17,
+    "y": 49
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7727C1ED-296A-4964-901A-BF4B20D101B1"
+    },
+    {
+      "class": "text",
+      "id": "D9CEE3A9-0B3F-4DF3-A3F4-C6CECAC6396D"
+    }
+  ],
+  "name": "My Plans",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4DAC2A54-A61C-424B-B847-19672FCAE685",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

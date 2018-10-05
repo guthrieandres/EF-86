@@ -1,0 +1,89 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3A612803-7AD0-4B72-B357-5AC3382970C4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2B55894-54B2-46BF-8E8C-0794FC202AF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26C1703E-BE8E-4411-9FCE-8801C7CD1606",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D64A95A-35A1-4112-8690-31B065E22022",
+    "height": 680,
+    "width": 1366,
+    "x": -5308,
+    "y": -1125
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8AFC0AE2-458A-422F-BD81-10C727C0F3F9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4BDAA09F-9BBF-4C49-ACF7-1A6CAF3D91A2"
+    },
+    {
+      "class": "group",
+      "id": "A2A144E0-097E-434E-A3CF-C97A93A7F8CF"
+    },
+    {
+      "class": "group",
+      "id": "E01F1828-6453-4FB2-B763-F6681B351318"
+    }
+  ],
+  "name": "Detail Duplicate S01-2 Copy 2",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC89FA90-66AB-4EC5-A4D0-4FFB5B99495F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9CCB703E-0BFF-4965-83CF-358A640229EC",
+    "guides": [
+      316
+    ]
+  }
+}

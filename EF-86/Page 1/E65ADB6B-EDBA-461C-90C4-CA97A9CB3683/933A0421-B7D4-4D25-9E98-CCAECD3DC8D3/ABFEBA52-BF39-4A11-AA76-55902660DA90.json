@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ABFEBA52-BF39-4A11-AA76-55902660DA90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F17FB29-883A-4CB2-B048-61CCFA37473E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FE33D434-4A42-4B12-90E8-7D68387E78A9",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 89
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/med/delete",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20F0B7CC-488C-4B04-98E0-013477821D9C",
+      "overrideName": "7B2B1429-7C51-4F46-8DB0-07F515A65694_symbolID",
+      "value": "4833E9A7-1C73-4DE9-AC23-5AB4A47DEFCB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B8B9E209-B025-4993-AEB2-64CD4E21EB0A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "1F279F05-EBB7-4560-8966-11497BA1AB8F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EFB6E117-36DA-4B88-BB20-1118ACD925D3",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B3C4E72-2F26-48CA-BE8D-D9411AD15531",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A678C35F-C472-4BF9-A057-A25F990E8CCA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49E40F75-683C-427D-A952-FF01403971CD",
+    "height": 65,
+    "width": 241,
+    "x": 773,
+    "y": 184
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E5E11901-2820-439E-BA23-BCC1B698C07F"
+    },
+    {
+      "class": "text",
+      "id": "2477E382-2A60-4404-80E3-BBAA37417018"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "972DF030-4828-4C53-96E0-890186299ADE"
+    }
+  ],
+  "name": "Add Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7AE16EA-5CEB-40C3-9686-64A0EAE006DF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
