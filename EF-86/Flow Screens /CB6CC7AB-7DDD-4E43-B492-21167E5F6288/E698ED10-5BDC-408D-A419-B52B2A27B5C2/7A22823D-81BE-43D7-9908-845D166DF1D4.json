@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A22823D-81BE-43D7-9908-845D166DF1D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA9B1FF4-0CC3-425D-A31C-262B5525A823",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D44367C-D68C-4FE8-A2AB-03A3A7DA4580",
+    "height": 72,
+    "width": 1002,
+    "x": 315,
+    "y": 725
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Listitem/AssessmentItem/Sortable/Active 4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7EE47EDA-39E5-4E32-B5A2-D70E85D5A51B_stringValue",
+      "value": "This is the Item 4 Question Stem: Lorem Ipsum dolor sit amen a;ljf;lkj"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE410FFE-A02C-4C7F-A285-7D930EE19857",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "220E8274-2041-47AD-B952-CC45FB81A174",
+  "verticalSpacing": 0
+}

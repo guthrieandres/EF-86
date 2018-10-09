@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 16,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Assessment-Level"
+    "string": "Assessment"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "897FB741-EB6E-47ED-BC7B-D3F53E56EB04",
     "height": 35,
-    "width": 265,
-    "x": 1643,
+    "width": 177,
+    "x": 1677,
     "y": 248
   },
-  "glyphBounds": "{{-1, 0}, {264, 24}}",
+  "glyphBounds": "{{-1, 0}, {178, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Assessment-Level",
+  "name": "Assessment",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

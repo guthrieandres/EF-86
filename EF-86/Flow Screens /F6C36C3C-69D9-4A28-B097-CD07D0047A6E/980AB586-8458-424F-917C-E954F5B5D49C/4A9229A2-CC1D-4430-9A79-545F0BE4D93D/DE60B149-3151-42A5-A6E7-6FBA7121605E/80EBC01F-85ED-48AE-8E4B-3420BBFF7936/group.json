@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "80EBC01F-85ED-48AE-8E4B-3420BBFF7936",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD4B49B1-9934-43F6-B288-568880F64E22",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE1F703D-BC3D-45ED-B7D3-CA8EC09B3D3D",
+    "height": 10,
+    "width": 17,
+    "x": 28,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "83D0638A-94B6-4559-A279-4317939A225B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70B5910A-7A00-4B0F-AAFB-6AC769538BA9"
+    }
+  ],
+  "name": "Icon/sml/assessment",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEA9BFE8-CEE5-4D02-BB32-FE557C479A04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

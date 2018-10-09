@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8AE5F807-7270-4C53-B212-436D1D8157C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54D31B0A-77BD-493A-89E9-95FCAD7B0062",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83BD29CE-D499-40A2-98C4-A6366858686A",
+    "height": 50,
+    "width": 300,
+    "x": 0,
+    "y": 628
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Module Nav Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "932E892E-92AE-426D-9017-9D0EF352C14C",
+      "overrideName": "70286C33-B2F1-4363-9D38-55189833CDF8_stringValue",
+      "value": "Module 7: Lorem Ipsum"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86DA3AA7-0453-49CF-9831-159D48CDB229",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "144E4958-62F3-409A-921C-A44F24EF763E",
+  "verticalSpacing": 0
+}

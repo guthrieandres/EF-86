@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92FB7299-8877-4902-9C1B-047213513101",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "478A39F6-4F4C-4D08-B827-77F54768670B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C5BB2E78-F983-412F-B31C-B88985478984",
+    "height": 72,
+    "width": 1002,
+    "x": 315,
+    "y": 484
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Listitem/AssessmentItem/Sortable/Active 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A464CC9B-6418-4A0B-93B6-34C257AD91F8_stringValue",
+      "value": "This is the question text for Item 1 1 1 1 1 1 1 1 1 1 1 1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6E0544B-6FB1-45C9-BC85-222B21EF6CC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8DB80065-DEDC-47FA-A1D8-0D4E5857CE35",
+  "verticalSpacing": 0
+}

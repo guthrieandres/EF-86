@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A614D151-CE26-43A5-A5E8-78518335C237",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "70772C75-0688-4747-BCAA-5E9B370CDF02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65F40444-970F-4E6E-8DEB-962A4649BD99",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D592D6F1-0FF2-40D8-AFCB-57A17AA9E872",
+    "height": 730,
+    "width": 1366,
+    "x": -2894,
+    "y": 595
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C97533EE-08FF-4388-AAE9-2D7AAB58A05A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "811A84CB-EE6E-48D5-AFD4-3425DF8D4322"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "223F6E46-6D40-4A3B-AD1C-312CE1CBE538"
+    },
+    {
+      "class": "rectangle",
+      "id": "46DC6468-3956-416E-BB2D-AC10BA797248"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "349D172C-5C1B-4276-901B-884D963AC9C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36D7D792-F4E7-4680-B101-1FC308C5DA80"
+    },
+    {
+      "class": "text",
+      "id": "EE1E7E3B-439B-401E-8F96-F51D1487412C"
+    },
+    {
+      "class": "text",
+      "id": "B4007DD6-C236-4E0F-8F19-D6AC88E8028E"
+    },
+    {
+      "class": "rectangle",
+      "id": "7EFF952A-81AE-4FEF-A189-006043016295"
+    },
+    {
+      "class": "oval",
+      "id": "ECBF1C93-5D84-475E-942D-D2873AA8090A"
+    }
+  ],
+  "name": "Edit Item Flow 2 - 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E708EA8-228B-4FC0-9F40-328449E71417",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2E854065-6A50-4C97-98EA-5C045A0DB402",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0EECE3E9-0252-4EA9-9428-3840276FA0AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2D2D5FD-37E9-45E5-9304-3E7503F095A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2EB8743-834F-4F53-9C71-A8052E462B0A",
+    "height": 32,
+    "width": 32,
+    "x": 549,
+    "y": 278
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "57BA70C1-9AA2-4B9D-93C5-82BFB5D16A42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4607AE4B-F7A3-487A-9D82-B8A997E59020"
+    }
+  ],
+  "name": "Meatball Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1102533-00E5-4C2A-A733-59362585E9D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

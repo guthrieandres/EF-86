@@ -19,7 +19,7 @@
     "constrainProportions": false,
     "do_objectID": "58E516CE-90F4-4752-96B0-B53E0BB4E512",
     "height": 2,
-    "width": 2885,
+    "width": 3629,
     "x": 0,
     "y": 0
   },
@@ -38,22 +38,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0.5}",
+      "curveFrom": "{0, 0.50000000000000044}",
       "curveMode": 1,
-      "curveTo": "{0, 0.5}",
+      "curveTo": "{0, 0.50000000000000044}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0.5}"
+      "point": "{0, 0.50000000000000044}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.12119959875416723, 0.5}",
+      "curveFrom": "{0.096351844145983107, 0.50000000000000044}",
       "curveMode": 1,
-      "curveTo": "{0.12119959875416723, 0.5}",
+      "curveTo": "{0.096351844145983107, 0.50000000000000044}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.9998266897746968, 0.5}"
+      "point": "{0.99973305318269512, 0.5}"
     }
   ],
   "resizingConstraint": 63,

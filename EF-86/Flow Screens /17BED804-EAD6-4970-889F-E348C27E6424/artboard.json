@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7C95B26E-DB43-4FF2-AD6A-A220B253A1D6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "17BED804-EAD6-4970-889F-E348C27E6424",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE4934E3-0702-4D31-914E-93C9A46CD078",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "34CD53B1-68DB-492E-B55E-DA1B75DE1E77",
+    "height": 730,
+    "width": 1366,
+    "x": 4552,
+    "y": 595
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3366D44C-9E2E-4237-B059-097D1B700E60",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FABC50F0-FF9E-4A8C-9F0C-8906FEB7B13B"
+    },
+    {
+      "class": "rectangle",
+      "id": "02733D1E-0F30-444D-90E9-41FAF64E8348"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1BA9855-0DD4-46FC-A7C9-404AACA03521"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55FFF3FA-8344-4C02-92C9-4EFC4DC411B2"
+    },
+    {
+      "class": "text",
+      "id": "F9772E87-C7C9-44BB-BF2D-B0C6A145C02D"
+    },
+    {
+      "class": "text",
+      "id": "AFC1E789-6789-43BA-828D-12D91400AFD5"
+    },
+    {
+      "class": "rectangle",
+      "id": "1439DCC2-746D-40FB-8025-A739F90F7B9F"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D1AB58D-6E06-492A-98C4-6838AD307E2D"
+    },
+    {
+      "class": "oval",
+      "id": "49D2D0E7-6E87-43BD-9E80-1190587D68CB"
+    },
+    {
+      "class": "text",
+      "id": "8A5E58E7-BCCF-4BF4-AD73-342E014F30B1"
+    },
+    {
+      "class": "group",
+      "id": "3CFB632C-068F-4769-88E0-EF7EC6B1651E"
+    },
+    {
+      "class": "oval",
+      "id": "F8B56166-0CD4-482E-83D8-D7797FCC0895"
+    }
+  ],
+  "name": "Edit Item Flow 2 - 7a",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69824154-A018-40B7-A929-D25F36E6C272",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "15E57AC3-AFEE-48BF-9490-473D942EC7D6",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C27221E6-0D1A-4FF2-8A4E-DF3C3E4F6A01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "481AD189-4CC0-49EF-ADFD-5848350FF7FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E13D28D-6829-423F-A7E2-01079CCF95D6",
+    "height": 40,
+    "width": 98,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E229D87E-349E-4821-A916-41438A7B5A64"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B3C25E4-7AE2-4E2A-AABC-6AED5A63E7AA"
+    },
+    {
+      "class": "text",
+      "id": "3890172E-346C-4762-9B62-7CCB07680084"
+    }
+  ],
+  "name": "Button/*Format*/Icon-Left-40 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E9BE21A-FE54-474E-BA1E-FBAA4EF10B8F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

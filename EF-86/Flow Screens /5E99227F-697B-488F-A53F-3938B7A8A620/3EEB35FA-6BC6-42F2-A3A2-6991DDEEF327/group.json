@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3EEB35FA-6BC6-42F2-A3A2-6991DDEEF327",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E60182AD-43FB-48C9-9DCB-9F40AF42260E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "226F4D26-5ECA-4872-84F8-65088EE59086",
+    "height": 64,
+    "width": 1366,
+    "x": 0,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "99C9A644-7E96-4EBF-BE29-31CA653EA60B"
+    },
+    {
+      "class": "text",
+      "id": "4B85A300-7B27-48B0-9DDD-C818209BDBEB"
+    },
+    {
+      "class": "text",
+      "id": "00659358-9065-4F78-94FD-731C0451DC42"
+    }
+  ],
+  "name": "Header/Add Items Overlay",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89E45447-930E-4FBE-9571-47B365ED47D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

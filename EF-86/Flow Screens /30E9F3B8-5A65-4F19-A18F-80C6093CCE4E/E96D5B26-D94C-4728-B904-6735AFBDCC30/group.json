@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E96D5B26-D94C-4728-B904-6735AFBDCC30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52E0A395-DEBC-4F4F-ADE3-134AED62F70A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B338981-4D0C-4D37-AEB8-1DB9031F3BCA",
+    "height": 562,
+    "width": 1366,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7AF16B17-6B5E-4FA4-998C-89E41E734AC6"
+    },
+    {
+      "class": "group",
+      "id": "0E1E7297-BC1E-42E7-9C85-5D7E8FE5BA52"
+    },
+    {
+      "class": "group",
+      "id": "0D154120-F2D6-4373-9303-CC829424D5C5"
+    }
+  ],
+  "name": "Page/S03_05 - Assessment Overview Filled",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49301E47-D8A6-4AEB-A079-F39F7D38933C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

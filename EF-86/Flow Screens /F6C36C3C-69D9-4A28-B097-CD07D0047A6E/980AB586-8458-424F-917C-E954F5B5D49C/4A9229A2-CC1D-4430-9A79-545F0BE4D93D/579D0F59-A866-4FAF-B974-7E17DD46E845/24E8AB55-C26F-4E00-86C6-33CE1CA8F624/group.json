@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "24E8AB55-C26F-4E00-86C6-33CE1CA8F624",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C09056B-00B6-4F22-A517-011FB1FDEC8B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79D9A6AA-8C7B-4B79-9F34-9CDEFB61D5C7",
+    "height": 16,
+    "width": 14,
+    "x": 1,
+    "y": 42
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "69DB4DF3-9A4E-47C4-B12A-5A3A722899BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF0001E5-14D5-400D-B88A-6F9B31B46545"
+    }
+  ],
+  "name": "Icon/sml/plans",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A6E8113-1364-4C9C-A6F5-D74C955C7EF9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

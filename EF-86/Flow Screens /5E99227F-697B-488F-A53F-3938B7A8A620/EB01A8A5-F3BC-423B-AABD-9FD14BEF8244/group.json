@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB01A8A5-F3BC-423B-AABD-9FD14BEF8244",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BEA216D-8A69-488F-8FE8-37E2E2DC5E77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FED49DC3-7CDB-407C-A39B-A24870039C4D",
+    "height": 45,
+    "width": 113,
+    "x": 1205,
+    "y": 309
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "722DE6B8-325E-48CB-B57B-0823DEDF8580"
+    },
+    {
+      "class": "text",
+      "id": "0206ED9D-5E42-4B04-8931-968244B41D76"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FD8B689-B0C6-46FB-8030-9DE5161CCCF0"
+    }
+  ],
+  "name": "Menu Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BBEC052F-176C-4BE4-A98D-09E6FD4B5C6E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

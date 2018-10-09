@@ -1,0 +1,173 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2FFFC7FE-96DF-4E82-BF7E-DC5C5B3452C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0F2CA48-3FEC-47AD-99CC-61239AFF7D8C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59C9B9FF-2E40-403A-8055-1CCBB233F3D5",
+    "height": 797,
+    "width": 1366,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B85F5D58-C4BC-4B41-BFEC-496B335404DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "933149FC-3166-4E03-8278-FAB3A43B2E88"
+    },
+    {
+      "class": "text",
+      "id": "2EF97BC3-7636-41E4-B1F4-29EAC39722B2"
+    },
+    {
+      "class": "text",
+      "id": "59D99B22-8FBD-462E-903C-D24371C28556"
+    },
+    {
+      "class": "group",
+      "id": "8F2C47FA-735E-4F11-9872-C0F3CFBA51D9"
+    },
+    {
+      "class": "text",
+      "id": "594C2F18-63F3-4208-A479-6744A3DD56C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C7AED77-F373-4553-9B45-AF088110D8F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21EA391D-E39E-4067-997E-F1B617B30884"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8AB0AAF-E562-4D75-A8FD-99B23A71CEC4"
+    },
+    {
+      "class": "group",
+      "id": "F826926F-11D3-4BB6-9249-E46803E68082"
+    },
+    {
+      "class": "group",
+      "id": "1C4D2A8C-8456-4DC0-8EAA-CA43EDF23F9C"
+    },
+    {
+      "class": "group",
+      "id": "B3C585F2-EFF8-44C0-B0E6-7B1F0CF027DA"
+    },
+    {
+      "class": "group",
+      "id": "9507F478-7F32-46E2-A9C6-B774DD68F1F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6E9C6DB-4613-4BFD-9AA6-8556282550AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AEA6FCBF-6AD3-4D07-A8D7-6EE7D5674550"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "495131C9-CEEE-4855-B4BF-E09BA840F47D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53A8B3EA-B8EB-4C44-81C4-E62401AC237F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23E46401-AC35-4A95-BA3E-EBB3218C9BD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A35AF6F-2D66-409E-A8CF-86C8AA77DA06"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69C2C054-A66B-470A-875C-061C249CBAC8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6165FEE3-8ABD-4F43-8EF6-BD2444719162"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B355694-A7CB-4DF1-90CD-4FCD64CDF0A4"
+    },
+    {
+      "class": "group",
+      "id": "7EAD4910-0928-497C-BDAC-7DD09A4FCD56"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29A24196-63F9-4AE8-B4F2-FB6FEF3A89AB"
+    },
+    {
+      "class": "shapePath",
+      "id": "9F1BA3E9-7A2A-4580-9A38-A50E20B879C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "AC320CA4-5748-4DAC-B8A5-429B96A55C3E"
+    },
+    {
+      "class": "oval",
+      "id": "E1134514-9F5A-4188-BD84-7652B2AF40F2"
+    },
+    {
+      "class": "oval",
+      "id": "CCE4C4BE-8DD4-45B3-B2BD-359DCA017FA0"
+    },
+    {
+      "class": "oval",
+      "id": "9223BC84-DA3C-4BB9-923F-41889DE0B264"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "296C68CE-6AB7-4E95-BC09-6B2EB1FA750A"
+    },
+    {
+      "class": "rectangle",
+      "id": "A85020E9-27DE-4DB1-BEB7-0C1C7D323097"
+    }
+  ],
+  "name": "Page/S03_05 - Assessment Overview Filled",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DCA5C805-73A9-4672-8730-20E3BA3052E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

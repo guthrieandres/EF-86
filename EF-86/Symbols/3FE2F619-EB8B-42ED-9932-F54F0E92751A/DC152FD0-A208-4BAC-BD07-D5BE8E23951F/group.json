@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC152FD0-A208-4BAC-BD07-D5BE8E23951F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B23FDDA7-AD53-4FB0-A8FE-D3E032A364BC",
+    "height": 40,
+    "width": 232,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8C7EFC8C-91EB-450D-8049-7A5EE61D90A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "F103B3F0-F52E-4424-B2A6-93827786E38F"
+    },
+    {
+      "class": "text",
+      "id": "ABB30C65-EF73-4B67-82E3-FB1A4738159F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E39C2DE4-1192-42F2-AD01-ADEB3C19DDAD"
+    }
+  ],
+  "name": "My Assessments",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C1F4CD0-28D7-4146-BFD0-B36A27F996E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

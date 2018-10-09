@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 6,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Item 1"
+    "string": "HMH Item 1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "AA4AD438-6A72-4611-8B79-FAD5117B62F9",
     "height": 35,
-    "width": 93,
-    "x": 2325,
+    "width": 175,
+    "x": 2284,
     "y": 248
   },
-  "glyphBounds": "{{2, 0}, {85, 24}}",
+  "glyphBounds": "{{2, 0}, {167, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Item 1",
+  "name": "HMH Item 1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

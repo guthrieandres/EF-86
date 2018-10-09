@@ -1,0 +1,127 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "73DD71E7-FF61-46B0-9DF1-0231DD7AF65D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42AECA80-FEC1-4124-9451-D5BF31DA5290",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F376878B-5C08-4E69-A28F-30E4E19F1011",
+    "height": 640,
+    "width": 300,
+    "x": 0,
+    "y": 130
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sidepanel/Curriculum Hierarchy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "337BB801-7D8D-4219-B584-E130B817FD58_symbolID",
+      "value": "3A361979-E779-48C1-857D-6E7688B1DF80"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C24CCA8D-D51B-4B1C-98E7-5BD232FC6E05_symbolID",
+      "value": "5E3A06DE-A223-41F2-A856-5AF3CE06BEF6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6040B770-AA7B-49A4-896A-BF7DA05DA409_symbolID",
+      "value": "5E3A06DE-A223-41F2-A856-5AF3CE06BEF6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "874E898B-8730-478F-BCE3-597F7671E5F3_symbolID",
+      "value": "5E3A06DE-A223-41F2-A856-5AF3CE06BEF6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A823729-DBDE-4DA5-A40F-885D896E378E/63EF4A58-67BB-42BC-A5C0-052FD3F46CED_stringValue",
+      "value": "Module 3: Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5394CF97-E61B-43FB-96E5-7F44F4B7E5A8/63EF4A58-67BB-42BC-A5C0-052FD3F46CED_stringValue",
+      "value": "Module 4: Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1940231-10EE-418B-8BC5-10606912283E/63EF4A58-67BB-42BC-A5C0-052FD3F46CED_stringValue",
+      "value": "Module 5: Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "337BB801-7D8D-4219-B584-E130B817FD58/252DBB9E-9F05-43DA-AEF5-491C5DD60624_stringValue",
+      "value": "Module 2: Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6040B770-AA7B-49A4-896A-BF7DA05DA409/D2DF7428-7F70-4F15-9298-64E991F05ECC_stringValue",
+      "value": "Lesson 2: Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "874E898B-8730-478F-BCE3-597F7671E5F3/D2DF7428-7F70-4F15-9298-64E991F05ECC_stringValue",
+      "value": "Lesson 3: Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C24CCA8D-D51B-4B1C-98E7-5BD232FC6E05/D5684349-890C-4618-9D90-4584D61D1E22_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "874E898B-8730-478F-BCE3-597F7671E5F3/D5684349-890C-4618-9D90-4584D61D1E22_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "48188590-70A2-49E1-BB57-68242D87499F_symbolID",
+      "value": "5E3A06DE-A223-41F2-A856-5AF3CE06BEF6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "48188590-70A2-49E1-BB57-68242D87499F/D2DF7428-7F70-4F15-9298-64E991F05ECC_stringValue",
+      "value": "Lesson 4: Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "48188590-70A2-49E1-BB57-68242D87499F/D5684349-890C-4618-9D90-4584D61D1E22_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA565653-A503-417E-9332-1BCB80F15AEE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42A90316-7FE4-43F1-BB60-14C3C3AD46F8",
+  "verticalSpacing": 0
+}

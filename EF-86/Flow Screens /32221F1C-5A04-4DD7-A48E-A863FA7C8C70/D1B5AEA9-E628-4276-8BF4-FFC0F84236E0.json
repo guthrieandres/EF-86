@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1B5AEA9-E628-4276-8BF4-FFC0F84236E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47580907-A0C5-4EE0-A3DA-A4289B768B79",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "842B9618-3E34-4680-99C4-30A9E38DADCD",
+    "height": 90,
+    "width": 1366,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header/Add Items Overlay",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5DDC21FA-8D5A-4B61-91FC-29153DD70468_stringValue",
+      "value": "Add Items to"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "64303342-FD97-41F9-B239-5321C3C6C5AC_stringValue",
+      "value": "Conor Assessment: Friend or Foe? Part 1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C51649DF-7FBB-4107-8E2D-0D54E86795F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD0DAF8A-8FF6-40E9-99F3-E4861B26FF0E",
+  "verticalSpacing": 0
+}

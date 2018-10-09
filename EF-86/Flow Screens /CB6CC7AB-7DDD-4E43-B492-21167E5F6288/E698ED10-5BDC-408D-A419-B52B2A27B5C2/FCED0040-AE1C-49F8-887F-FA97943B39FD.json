@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCED0040-AE1C-49F8-887F-FA97943B39FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A67675F3-B54E-40EA-ABDB-4660875CFBEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "741AE5E1-E52E-4492-BFD0-83FBA570B7D6",
+    "height": 72,
+    "width": 1002,
+    "x": 315,
+    "y": 484
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Listitem/AssessmentItem/Sortable/Active 1 Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACB461A5-A4FB-48FB-A6CC-58EE659D0D4B",
+      "overrideName": "7EE47EDA-39E5-4E32-B5A2-D70E85D5A51B_stringValue",
+      "value": "Copy of Lorem ipsum dolor sit amet consectetur"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "725AC359-EC1F-4F5D-BAB3-9A56F3D71ED3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "220E8274-2041-47AD-B952-CC45FB81A174",
+  "verticalSpacing": 0
+}

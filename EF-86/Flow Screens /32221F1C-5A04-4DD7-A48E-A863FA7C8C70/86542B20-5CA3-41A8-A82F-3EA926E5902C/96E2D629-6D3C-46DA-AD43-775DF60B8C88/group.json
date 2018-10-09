@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96E2D629-6D3C-46DA-AD43-775DF60B8C88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7F949B4-99E1-49EF-9FDD-2FF01CA88573",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A0812AF-E967-462E-A2CC-4A252E1E9DD8",
+    "height": 135,
+    "width": 567,
+    "x": 24,
+    "y": 347
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5ED6D74C-0558-4BC2-B319-810F12FD2347"
+    },
+    {
+      "class": "text",
+      "id": "84D47A0D-3156-436B-A89C-CEE65DED0FDB"
+    },
+    {
+      "class": "text",
+      "id": "6007943D-4535-43D1-8402-384392B60B08"
+    }
+  ],
+  "name": "Input/Form/*Default* Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD729147-187A-42D9-9AA4-4F4E0B7784C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

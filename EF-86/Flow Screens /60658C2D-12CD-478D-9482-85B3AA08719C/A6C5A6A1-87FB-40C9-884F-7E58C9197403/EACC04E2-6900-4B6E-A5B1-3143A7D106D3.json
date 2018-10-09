@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EACC04E2-6900-4B6E-A5B1-3143A7D106D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB6B2850-CABE-434A-99AF-65BF0BA93538",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3722BA79-F234-4443-A916-70F428FC2AA4",
+    "height": 40,
+    "width": 140,
+    "x": 1186,
+    "y": 16
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Save&Done",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "20BA340B-5A13-4148-9724-12CDB71A5431_stringValue",
+      "value": "Save & Add Item"
+    }
+  ],
+  "resizingConstraint": 36,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A0EBB9F-2EC7-435F-A607-9266688E9258",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F875E2E2-F2C7-4885-A36F-7FC1D037954C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,173 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "980AB586-8458-424F-917C-E954F5B5D49C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "582191F6-0E6F-4889-8998-D27BDE762B00",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88DB8C53-AAB6-4523-BAF2-A2DB0477342F",
+    "height": 761,
+    "width": 1366,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4A9229A2-CC1D-4430-9A79-545F0BE4D93D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6520C20B-7404-4538-BEDE-D9C131374A3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DCE9C69-A1D8-4085-8290-3842CC42234A"
+    },
+    {
+      "class": "text",
+      "id": "6C9A928F-99B3-494D-96A1-3A77C52622CE"
+    },
+    {
+      "class": "text",
+      "id": "4AB4E751-0E29-45F5-894F-C564FF353864"
+    },
+    {
+      "class": "group",
+      "id": "3F522A07-AC42-48BE-9CB9-519F270E7239"
+    },
+    {
+      "class": "text",
+      "id": "AF52329F-140E-409D-975F-04BFB7F52E85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C8034CD-854A-43FC-BACF-8147B20B51D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C0CDCEB-F06A-4FB7-94B4-9C6CD956ADFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69FC270E-0DD4-4615-A9B6-93F8488F6358"
+    },
+    {
+      "class": "group",
+      "id": "0ABE6D65-F913-4F19-833C-1B2AFF15C4CD"
+    },
+    {
+      "class": "group",
+      "id": "B43D4755-5108-4809-9C86-2B4341DC56FD"
+    },
+    {
+      "class": "group",
+      "id": "05507D32-ABB3-4911-A58E-32B3F2CAAFF4"
+    },
+    {
+      "class": "group",
+      "id": "EFC0327F-19F1-4F01-8F53-6CC8EE2B1526"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AA027AA-6D17-4F07-BE19-3F36DDAC8F33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CE29DC7-6BC5-4865-81F5-379263FFA1DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C8AEEE4-DFF4-43F5-8F22-94EE49CE5F5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3221AC43-43F6-4D8F-BF93-2EAABEFA3351"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DBB39E6-89FF-4AA6-AF45-338CCFCD5D69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B852C838-EEB4-48E4-97C7-8B59AAC5FF56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92FB7299-8877-4902-9C1B-047213513101"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "180D2963-FF61-40B6-B13E-79F8B3E49898"
+    },
+    {
+      "class": "group",
+      "id": "343CB25B-537E-4B18-8591-795B20227456"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "47F6B702-B2F2-4B0D-B52D-D864041B825D"
+    },
+    {
+      "class": "shapePath",
+      "id": "F4E21AD1-785B-4DC5-8D01-8E91DAC0E946"
+    },
+    {
+      "class": "shapePath",
+      "id": "BEBC7B75-BC72-4021-A21B-A64A4049BD5F"
+    },
+    {
+      "class": "oval",
+      "id": "68C8828D-90D7-40F2-93A2-6DDDC8CF261F"
+    },
+    {
+      "class": "oval",
+      "id": "6DCCE6EF-F35E-4946-B897-53DD1D899833"
+    },
+    {
+      "class": "oval",
+      "id": "3DB5A2B9-61FB-400A-BE53-5178FD664A55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAE7EDCA-B370-4DE8-A934-EF6579393F33"
+    },
+    {
+      "class": "rectangle",
+      "id": "9C344B34-14F7-4068-9585-2A43F6245680"
+    }
+  ],
+  "name": "Page/S03_05 - Assessment Overview Filled",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2A47E75-4854-4F3F-A966-7008D3088E9B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

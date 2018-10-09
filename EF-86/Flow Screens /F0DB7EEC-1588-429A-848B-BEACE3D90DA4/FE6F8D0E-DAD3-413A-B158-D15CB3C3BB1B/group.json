@@ -1,0 +1,173 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE6F8D0E-DAD3-413A-B158-D15CB3C3BB1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FDF321B-AB3B-4D3A-9D27-9AD2240F3B84",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28A8B2B5-C8A6-44D9-8B14-85CDD568572C",
+    "height": 722,
+    "width": 1366,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3DA838B9-AF81-4A88-BF81-7DE281DE8887"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "683B56A2-F148-4ACC-BBCE-7551B067E840"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42BC0A9B-F47A-4CAA-AAE4-84D4AA0BEBD2"
+    },
+    {
+      "class": "text",
+      "id": "3A971AF4-7A26-4D1F-A49E-262F361B3B95"
+    },
+    {
+      "class": "text",
+      "id": "505FC157-0DDC-4AE4-805A-BBCC2D1F0F5E"
+    },
+    {
+      "class": "group",
+      "id": "37DCCEE3-7440-49A1-95BE-584F65D856AE"
+    },
+    {
+      "class": "text",
+      "id": "EDA91B57-8B0A-49C1-9C99-C4C9C42517C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65F98589-A103-4B88-8C68-92815A3A63A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E71437D8-96ED-4FAC-95E3-BF668F121E5D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B743CCF-C09A-4C84-BD41-4CD4FAA76B46"
+    },
+    {
+      "class": "group",
+      "id": "959CC5D6-4E11-4205-BE2F-02240735D70C"
+    },
+    {
+      "class": "group",
+      "id": "75A7401D-3D48-4EB6-96EE-4C51D67FF63D"
+    },
+    {
+      "class": "group",
+      "id": "99AADA76-5378-4060-8C59-A0E8B84A5DA1"
+    },
+    {
+      "class": "group",
+      "id": "54F162AA-68CC-478C-A766-11B717AD15DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0A17C6C-3CE9-4C18-AA4B-1C05B2F8CAC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E1D3570-8775-4561-BC6B-1911155676B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DD3CD24-344A-4221-8588-515CE1B35F1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B65CD57-DB5B-46AD-87B7-FD3E59357749"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18FF4AA5-2F51-4395-9034-6797367423F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B5B2196-B353-4EC1-AEC4-6757CE9A49E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE6A8770-62D4-4D56-8BC5-7CF1EACD3ACE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E042218E-3404-4D0D-AEAB-EFC2C17115E8"
+    },
+    {
+      "class": "group",
+      "id": "156D80A1-F828-49D1-888F-1870D26C05DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA2BFB93-B6F5-4E88-845B-8E1F9A92A28F"
+    },
+    {
+      "class": "shapePath",
+      "id": "E65239DD-77C1-411E-9493-F34FC169998A"
+    },
+    {
+      "class": "shapePath",
+      "id": "D41EC015-8B5D-420D-B584-8758E7C8457C"
+    },
+    {
+      "class": "oval",
+      "id": "BB25DD63-037B-4D7D-B194-9328EC6FBBB6"
+    },
+    {
+      "class": "oval",
+      "id": "A9E33271-ADBA-4435-BBC6-52AF623F4D06"
+    },
+    {
+      "class": "oval",
+      "id": "A167661A-A6C9-4C5A-BC7E-FA892F460B2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "355A5601-7A67-47D1-9733-B9685D2F0C33"
+    },
+    {
+      "class": "rectangle",
+      "id": "3B608D6B-027D-4C7C-BB3A-C808E9C69553"
+    }
+  ],
+  "name": "Page/S03_05 - Assessment Overview Filled",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B91680DA-7E05-42EB-AFAE-EF2890605C74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

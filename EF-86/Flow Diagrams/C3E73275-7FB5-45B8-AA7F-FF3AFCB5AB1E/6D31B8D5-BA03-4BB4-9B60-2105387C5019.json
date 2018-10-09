@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 14,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Copy of Item 1"
+    "string": "My Item 1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "5370A2A8-0CE1-4315-AA9D-4BC87347AA9F",
     "height": 35,
-    "width": 211,
-    "x": 2076,
+    "width": 145,
+    "x": 2109,
     "y": 982
   },
-  "glyphBounds": "{{1, -1}, {204, 31}}",
+  "glyphBounds": "{{2, 0}, {137, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Copy of Item 1",
+  "name": "My Item 1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

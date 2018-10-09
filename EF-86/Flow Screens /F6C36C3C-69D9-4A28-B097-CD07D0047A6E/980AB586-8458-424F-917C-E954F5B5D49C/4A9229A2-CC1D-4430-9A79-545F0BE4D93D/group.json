@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A9229A2-CC1D-4430-9A79-545F0BE4D93D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B883FA0-173E-4F8B-A396-6B49246935EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF153EE7-4341-40D7-979C-7B16E12D3A3C",
+    "height": 681,
+    "width": 233,
+    "x": 0,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0B3F9DD0-3018-4FA6-B2D2-1B7F13A82FD3"
+    },
+    {
+      "class": "rectangle",
+      "id": "A275152A-E246-4F99-BD6C-411F5A66EE81"
+    },
+    {
+      "class": "group",
+      "id": "DE60B149-3151-42A5-A6E7-6FBA7121605E"
+    },
+    {
+      "class": "group",
+      "id": "CA78F58E-6F47-40FA-ADC2-3EC840A96C28"
+    },
+    {
+      "class": "group",
+      "id": "579D0F59-A866-4FAF-B974-7E17DD46E845"
+    }
+  ],
+  "name": "Sidepanel/My Assessments & Plans",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF4A009E-05B9-4766-9223-AD7E28524E9C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

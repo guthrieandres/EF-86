@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D79349C9-7449-4E7F-B9B2-10AB390DB495",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0EDC7B27-2850-4E71-95F1-0386F9EE44DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6FC8FB52-3C9E-4478-A461-021778B9DA7D",
+    "height": 32,
+    "width": 32,
+    "x": 954,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FE784411-FAE3-40B7-AA13-54C7ECAD6072"
+    },
+    {
+      "class": "oval",
+      "id": "F531C1CB-FFC0-4CE1-9EEB-2F7D35823458"
+    },
+    {
+      "class": "oval",
+      "id": "D1A674B9-26AE-48FB-898E-59DFFC3380ED"
+    },
+    {
+      "class": "oval",
+      "id": "729585BE-0FF7-415C-9A50-B58983ABF761"
+    }
+  ],
+  "name": "Meatball Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E415BFFA-FC94-4C7B-A411-B5F01B58AADF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

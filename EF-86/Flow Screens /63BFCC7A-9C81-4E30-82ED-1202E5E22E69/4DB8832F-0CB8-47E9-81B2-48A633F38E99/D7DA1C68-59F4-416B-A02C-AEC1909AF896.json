@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7DA1C68-59F4-416B-A02C-AEC1909AF896",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD9A3F3F-8EE5-4F71-B128-9111A451967A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6B268D9-A466-4BCF-A3D7-FED32A2502D9",
+    "height": 80,
+    "width": 1366,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header/Plans",
+  "nameIsFixed": false,
+  "originalObjectID": "7886E0CB-E10C-404B-8E2A-8D0D8805140E",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "535B3214-FC03-4B03-AD82-E93770FAE300/93DE5F5F-665A-4611-9D27-119F24991F9E_symbolID",
+      "value": "56CA52DF-2C33-41F5-936E-152354CC33C0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC75A41B-295E-41E3-998C-5FE6F8123744",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "696E7CA2-3344-4216-B477-9E44C07E394E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

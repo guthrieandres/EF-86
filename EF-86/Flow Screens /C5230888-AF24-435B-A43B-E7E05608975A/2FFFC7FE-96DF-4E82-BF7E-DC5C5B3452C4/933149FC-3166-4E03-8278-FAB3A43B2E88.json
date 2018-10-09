@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "933149FC-3166-4E03-8278-FAB3A43B2E88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAA7D2AD-0BD6-40FF-8660-D66B5FAB61DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A48281D-83B0-4D7B-96E8-20239659A9A9",
+    "height": 72,
+    "width": 72,
+    "x": 260,
+    "y": 124
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/lge/createassessment",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7E473C8C-0503-4078-B18C-3AFA533916B0_symbolID",
+      "value": "2171C196-292C-4B07-9A07-4BC837BC9103"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC9310F4-9F0E-4AF6-AC1C-06CE18F3D5D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4BB40FB4-EBF3-41B4-AF93-1F641C0A6216",
+  "verticalSpacing": 0
+}

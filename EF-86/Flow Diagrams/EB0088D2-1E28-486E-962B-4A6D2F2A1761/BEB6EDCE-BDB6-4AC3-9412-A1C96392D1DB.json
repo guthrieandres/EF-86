@@ -65,6 +65,7 @@
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
+        5
       ],
       "do_objectID": "81EAE0C7-3A9E-4F53-A567-5C3981731FFE",
       "isEnabled": false,

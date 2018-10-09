@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CB3B3CF-EA07-4E9D-A8B4-6ECEDD175A71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4496DA92-2411-4F97-AF68-A4919AE90242",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F22909DB-0C04-4C39-9444-311B118A8B84",
+    "height": 40,
+    "width": 108,
+    "x": 535,
+    "y": 374
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "20BA340B-5A13-4148-9724-12CDB71A5431_stringValue",
+      "value": "Edit item"
+    }
+  ],
+  "resizingConstraint": 36,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FFF79793-E079-4F56-BF22-5E5E611D84A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD8DF4E0-3437-40B5-97C9-766709926562",
+  "verticalSpacing": 0
+}
