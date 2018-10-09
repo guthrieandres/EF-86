@@ -9,43 +9,67 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4941176470588236,
-            "green": 0.1529411764705882,
-            "red": 0.8823529411764706
+            "blue": 0.3529411765,
+            "green": 0.3450980392,
+            "red": 0.3294117647
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ArialNarrow",
-              "size": 14
+              "name": "SlatePro-Medium",
+              "size": 35
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "baseWritingDirection": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
-            "paragraphSpacingBefore": 55,
-            "tighteningFactorForTruncation": 0.05
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 51,
+        "length": 24,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3529411765,
+            "green": 0.3450980392,
+            "red": 0.3294117647
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SlatePro-BkItalic",
+              "size": 35
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 16,
+        "location": 24
       }
     ],
-    "string": "Acceptance Criteria:\nassessment must be unassigned\n"
+    "string": "My Assessment Details 1\n(assigned state)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4DA6C02F-A248-42DF-A1EA-A11244F51F4A",
+  "do_objectID": "89122AF9-E0D1-4E00-895E-E9D0A292BA7C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1BA7E3D1-2068-418C-86D7-F7B7CF180B89",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,12 +80,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 182,
-    "width": 208,
-    "x": 47,
-    "y": 722
+    "do_objectID": "6CD77FF2-6CAF-4C4F-9DA3-6E25B13A6D9D",
+    "height": 105,
+    "width": 229,
+    "x": 1347.5,
+    "y": 319
   },
-  "glyphBounds": "{{-1, 6}, {168, 38}}",
+  "glyphBounds": "{{2, 0}, {226, 100}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,52 +95,47 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Acceptance Criteria:",
+  "name": "My Assessment Detail",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "4AEC8818-0363-4FAF-95DA-212D780F739E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B4FA0662-FD50-4E06-A888-3640DE461F92",
+    "do_objectID": "05E6D3C7-CF6A-4792-8E68-9446FE476A14",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "DE639F16-6E51-4708-B451-D50803194999",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4941176470588236,
-          "green": 0.1529411764705882,
-          "red": 0.8823529411764706
+          "blue": 0.3529411765,
+          "green": 0.3450980392,
+          "red": 0.3294117647
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ArialNarrow",
-            "size": 14
+            "name": "SlatePro-Medium",
+            "size": 35
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "baseWritingDirection": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
-          "paragraphSpacingBefore": 55,
-          "tighteningFactorForTruncation": 0.05
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

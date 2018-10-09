@@ -9,43 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4941176470588236,
-            "green": 0.1529411764705882,
-            "red": 0.8823529411764706
+            "blue": 0.3529411765,
+            "green": 0.3450980392,
+            "red": 0.3294117647
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ArialNarrow",
-              "size": 14
+              "name": "SlatePro-Medium",
+              "size": 35
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "baseWritingDirection": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
-            "paragraphSpacingBefore": 55,
-            "tighteningFactorForTruncation": 0.05
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 51,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Acceptance Criteria:\nassessment must be unassigned\n"
+    "string": "My Assessments List"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4DA6C02F-A248-42DF-A1EA-A11244F51F4A",
+  "do_objectID": "85271B9C-19F3-42FF-A796-B98D249C88C8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A3F619F0-B135-4490-95B9-F06739EECA51",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 182,
-    "width": 208,
-    "x": 47,
-    "y": 722
+    "do_objectID": "40C7CA7E-EF77-43B8-B371-BBD4EF603E02",
+    "height": 70,
+    "width": 244,
+    "x": 975,
+    "y": 335
   },
-  "glyphBounds": "{{-1, 6}, {168, 38}}",
+  "glyphBounds": "{{2, 0}, {241, 59}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,52 +67,47 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Acceptance Criteria:",
+  "name": "My Assessments List",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "4AEC8818-0363-4FAF-95DA-212D780F739E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B4FA0662-FD50-4E06-A888-3640DE461F92",
+    "do_objectID": "5E22552C-FE30-4996-BC70-C419964FBF50",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "42C172DD-378F-4A40-89C2-322855C43B7D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4941176470588236,
-          "green": 0.1529411764705882,
-          "red": 0.8823529411764706
+          "blue": 0.3529411765,
+          "green": 0.3450980392,
+          "red": 0.3294117647
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ArialNarrow",
-            "size": 14
+            "name": "SlatePro-Medium",
+            "size": 35
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "baseWritingDirection": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
-          "paragraphSpacingBefore": 55,
-          "tighteningFactorForTruncation": 0.05
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

@@ -9,43 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4941176470588236,
-            "green": 0.1529411764705882,
-            "red": 0.8823529411764706
+            "blue": 0.3529411765,
+            "green": 0.3450980392,
+            "red": 0.3294117647
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ArialNarrow",
-              "size": 14
+              "name": "SlatePro-Medium",
+              "size": 35
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "baseWritingDirection": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
-            "paragraphSpacingBefore": 55,
-            "tighteningFactorForTruncation": 0.05
+            "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 51,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Acceptance Criteria:\nassessment must be unassigned\n"
+    "string": "Back to Edit"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4DA6C02F-A248-42DF-A1EA-A11244F51F4A",
+  "do_objectID": "DDAAE554-18C6-4141-8C81-4F5798603E04",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "07EB3CA1-DD32-4EEF-9280-0C084B3CBD61",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 182,
-    "width": 208,
-    "x": 47,
-    "y": 722
+    "do_objectID": "2403E953-407A-4C1D-8ECA-CEA6CCEBA325",
+    "height": 35,
+    "width": 174,
+    "x": 2785,
+    "y": 361.08203125
   },
-  "glyphBounds": "{{-1, 6}, {168, 38}}",
+  "glyphBounds": "{{2, -1}, {171, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,52 +67,47 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Acceptance Criteria:",
+  "name": "Back to Edit",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "4AEC8818-0363-4FAF-95DA-212D780F739E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B4FA0662-FD50-4E06-A888-3640DE461F92",
+    "do_objectID": "60317EB4-89D6-443B-83DA-E8858A54445A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "927AF446-B8E5-4219-81C6-BB2DE71FE40A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4941176470588236,
-          "green": 0.1529411764705882,
-          "red": 0.8823529411764706
+          "blue": 0.3529411765,
+          "green": 0.3450980392,
+          "red": 0.3294117647
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ArialNarrow",
-            "size": 14
+            "name": "SlatePro-Medium",
+            "size": 35
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "baseWritingDirection": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
-          "paragraphSpacingBefore": 55,
-          "tighteningFactorForTruncation": 0.05
+          "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
